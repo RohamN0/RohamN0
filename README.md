@@ -1,2 +1,2 @@
 ## Roham Nodoust
-# Interested in Home Labing, Networking and Linux.
+- Interested in Home Labing, Networking and Linux.
