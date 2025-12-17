@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohamn0&show_icons=true&theme=radical&bg_color=00000000&layout=donut" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohamn0&show_icons=true&theme=radical&bg_color=00000000" height="180">
 </p>
 
 <p align="center">
