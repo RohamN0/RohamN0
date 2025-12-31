@@ -11,12 +11,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: classic metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_classic.svg
           base: header, repositories
           plugin_lines: yes
+
+      - name: lang metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_lan.svg
