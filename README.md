@@ -12,4 +12,8 @@
   <img src="github-metrics/metrics_lan.svg" alt="Language Metrics" width="48%" />
 </div>
 
-![Skills](https://skillicons.dev/icons?i=py,js,neovim,latex,go,docker,debian,tensorflow)
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,js,neovim,latex,go,docker,debian,tensorflow"/>
+    </a>
+</div>
