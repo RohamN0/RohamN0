@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: terminal
           filename: github-metrics/metrics_classic.svg
-          base: header, metadata
+          base: header
           plugin_lines: yes
 
       - name: lang metrics
